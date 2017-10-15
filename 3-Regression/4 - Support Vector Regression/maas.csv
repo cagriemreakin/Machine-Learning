@@ -1,0 +1,11 @@
+pozisyon,seviye,maas
+is analisti,1,45000
+danisman,2,50000
+kidemli danisman,3,60000
+yonetici,4,80000
+milletvekili,5,110000
+bolge muduru,6,150000
+hissedar,7,200000
+buyuk hisse sahibi,8,300000
+CTO,9,500000
+CEO,10,1000000
